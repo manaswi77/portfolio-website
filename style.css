@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    font-family: 'Ysabeau', sans-serif;
+    
+}
+.carousel-item img{
+    width: 100%;
+    height: 85vh;
+
+}
